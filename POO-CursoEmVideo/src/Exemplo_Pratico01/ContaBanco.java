@@ -1,4 +1,4 @@
-package Exemplo_Prático01;
+package Exemplo_Pratico01;
 
 public class ContaBanco {
     public int numConta;
